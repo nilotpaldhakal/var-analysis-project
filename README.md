@@ -1,1 +1,1 @@
-# VAR Analysis Project
+# VAR Analysis Project Documentation
