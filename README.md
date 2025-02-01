@@ -27,8 +27,3 @@ A data-driven analysis of Video Assistant Referee (VAR) interventions in the Pre
 - Net Goal Score Comparative Analysis
 - Subjective Decisions Scatter Plot
 - VAR Intervention Complexity Index
-
-## Computational Approach
-- Advanced Statistical Modeling
-- Machine Learning-Inspired Decision Analysis
-- Comprehensive Bias Score Algorithm
